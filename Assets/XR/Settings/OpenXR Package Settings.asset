@@ -212,7 +212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a24be4b5ebfe5f4d8ed1de9b25cb7aa, type: 3}
   m_Name: HandCommonPosesInteraction Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Hand Interaction Poses
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.handinteractionposes
@@ -285,7 +285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: feeef8d85de8db242bdda70cc7ff5acd, type: 3}
   m_Name: OculusTouchControllerProfile Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Oculus Touch Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.oculustouch
@@ -366,8 +366,6 @@ MonoBehaviour:
   m_Name: Android
   m_EditorClassIdentifier: 
   features:
-  - {fileID: 250328119116984164}
-  - {fileID: 480211624244793791}
   - {fileID: -6939093753912626550}
   - {fileID: -2766142980631764770}
   - {fileID: -6200941531171500153}
@@ -375,6 +373,7 @@ MonoBehaviour:
   - {fileID: -2138032149038255947}
   - {fileID: 5006906551206570718}
   - {fileID: 5809698418277405757}
+  - {fileID: 480211624244793791}
   - {fileID: -3845887980719066998}
   - {fileID: 1482340391458381783}
   - {fileID: 1165771700066747995}
@@ -382,6 +381,7 @@ MonoBehaviour:
   - {fileID: -6562287904415110481}
   - {fileID: -1829915885495078146}
   - {fileID: 949325599291031574}
+  - {fileID: 250328119116984164}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -541,7 +541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c5b5af5107e35a43818d5411328bfc3, type: 3}
   m_Name: DPadInteraction Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: D-Pad Binding
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.dpadinteraction
@@ -575,8 +575,6 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: 
   features:
-  - {fileID: 5446746527735451816}
-  - {fileID: -8287426008409367533}
   - {fileID: 8044786743856364942}
   - {fileID: 2966445433988803771}
   - {fileID: 4861408257537929191}
@@ -585,6 +583,7 @@ MonoBehaviour:
   - {fileID: -6520719060434760446}
   - {fileID: -2619992197166937810}
   - {fileID: -6900656840624918476}
+  - {fileID: -8287426008409367533}
   - {fileID: -8176857739757209396}
   - {fileID: 3818471118048588513}
   - {fileID: -3935867391084409459}
@@ -593,6 +592,7 @@ MonoBehaviour:
   - {fileID: 8335601260677167048}
   - {fileID: 5637486366552633189}
   - {fileID: -8856975685152698836}
+  - {fileID: 5446746527735451816}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -714,7 +714,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b213d3e3c7f3109449eb46a4c8ee42f0, type: 3}
   m_Name: XrPerformanceSettingsFeature Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: XR Performance Settings
   version: 1.0.0
   featureIdInternal: com.unity.openxr.feature.extension.performance_settings
@@ -734,7 +734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 056125dd64c0ed540b40a4af74f7b495, type: 3}
   m_Name: RuntimeDebuggerOpenXRFeature Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Runtime Debugger
   version: 1
   featureIdInternal: com.unity.openxr.features.runtimedebugger
@@ -796,7 +796,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7de993716e042c6499d0c18eed3a773c, type: 3}
   m_Name: MockRuntime Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Mock Runtime
   version: 0.0.2
   featureIdInternal: com.unity.openxr.feature.mockruntime
@@ -858,7 +858,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f028123e2efe1d443875bc7609b4a98b, type: 3}
   m_Name: PalmPoseInteraction Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Palm Pose
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.palmpose
