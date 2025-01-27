@@ -7,7 +7,7 @@ using UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation;
 namespace UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator
 {
     [RequireComponent(typeof(XRDeviceSimulatorUI))]
-    class XRDeviceSimulatorHandsUI : MonoBehaviour
+    public class XRDeviceSimulatorHandsUI : MonoBehaviour
     {
         [Serializable]
         class HandExpressionUI

@@ -3,7 +3,57 @@ guid: e8b922481d9264546b97958b2c7cf0a0
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - m_XRDeviceSimulatorMainPanel: {instanceID: 0}
+  - m_XRDeviceSimulatorCollapsedPanel: {instanceID: 0}
+  - m_HmdSpriteDark: {fileID: 21300000, guid: 177f60e6b21ff774093004ca330b2241, type: 3}
+  - m_HmdSpriteLight: {fileID: 21300000, guid: 4eb43321e418951499417cda6141b31a, type: 3}
+  - m_KeyboardSprite: {fileID: 21300000, guid: 76dc0abb2ebb44c9a9bd39266f0b3c91, type: 3}
+  - m_MouseSprite: {fileID: 21300000, guid: f997d60d79a4e45cab6b1814e377a1b3, type: 3}
+  - m_RMouseSpriteDark: {fileID: 21300000, guid: 308cc8b73722e43eab64c228a76560a6,
+      type: 3}
+  - m_RMouseSpriteLight: {fileID: 21300000, guid: 14e910c1fb9c7514a8106ffd25f1d892,
+      type: 3}
+  - m_RMouseSprite: {fileID: 21300000, guid: 14e910c1fb9c7514a8106ffd25f1d892, type: 3}
+  - m_RoundedRectangle: {fileID: 21300000, guid: b7bad1260586fa746a0b67e930892936,
+      type: 3}
+  - m_CycleDevicesText: {instanceID: 0}
+  - m_CurrentSelectedDeviceText: {instanceID: 0}
+  - m_HeadsetImage: {instanceID: 0}
+  - m_HeadsetMoveButton: {instanceID: 0}
+  - m_HeadsetMoveButtonIcon: {instanceID: 0}
+  - m_HeadsetMoveButtonText: {instanceID: 0}
+  - m_HeadsetMoveValueIcon: {instanceID: 0}
+  - m_HeadsetMoveValueText: {instanceID: 0}
+  - m_HeadsetLookButton: {instanceID: 0}
+  - m_HeadsetLookButtonText: {instanceID: 0}
+  - m_HeadsetLookValueIcon: {instanceID: 0}
+  - m_HeadsetLookValueText: {instanceID: 0}
+  - m_CursorLockButton: {instanceID: 0}
+  - m_CursorLockValueText: {instanceID: 0}
+  - m_MouseModeButtonText: {instanceID: 0}
+  - m_MouseModeValueText: {instanceID: 0}
+  - m_HeadsetSelectedButton: {instanceID: 0}
+  - m_HeadsetSelectedValueText: {instanceID: 0}
+  - m_ControllerSelectedButton: {instanceID: 0}
+  - m_ControllerSelectedIcon: {instanceID: 0}
+  - m_ControllerSelectedText: {instanceID: 0}
+  - m_ControllersSelectedValueText: {instanceID: 0}
+  - m_ControllersCanvasGroup: {instanceID: 0}
+  - m_LeftController: {instanceID: 0}
+  - m_LeftControllerButtonText: {instanceID: 0}
+  - m_RightController: {instanceID: 0}
+  - m_RightControllerButtonText: {instanceID: 0}
+  - m_HandsSelectedButton: {instanceID: 0}
+  - m_HandsSelectedIcon: {instanceID: 0}
+  - m_HandsSelectedText: {instanceID: 0}
+  - m_HandsSelectedValueIcon: {instanceID: 0}
+  - m_HandsSelectedValueText: {instanceID: 0}
+  - m_HandsCanvasGroup: {instanceID: 0}
+  - m_LeftHand: {instanceID: 0}
+  - m_LeftHandButtonText: {instanceID: 0}
+  - m_RightHand: {instanceID: 0}
+  - m_RightHandButtonText: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -10,7 +10,7 @@ using UnityEditor;
 
 namespace UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator
 {
-    class XRDeviceSimulatorUI : MonoBehaviour
+    public class XRDeviceSimulatorUI : MonoBehaviour
     {
         XRDeviceSimulator m_Simulator;
 
